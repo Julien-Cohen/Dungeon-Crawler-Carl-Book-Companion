@@ -1,0 +1,7 @@
+{
+  "name": "Dungeon Crawler Carl Book Companion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
